@@ -1,0 +1,15 @@
+#boxes {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 30px;
+  margin-top: 10px;
+  background-color: sandybrown;
+}
+
+.box {
+  margin: 20px;
+  /* border: 5px solid orangered; */
+  border-radius: 10px;
+}
